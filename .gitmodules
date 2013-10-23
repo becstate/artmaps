@@ -1,0 +1,6 @@
+[submodule "artmaps-azure"]
+	path = artmaps-azure
+	url = git@github.com:horizon-institute/artmaps-azure.git
+[submodule "artmaps-wordpress"]
+	path = artmaps-wordpress
+	url = git@github.com:horizon-institute/artmaps-wordpress.git

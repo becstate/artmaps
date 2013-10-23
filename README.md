@@ -1,4 +1,1 @@
-artmaps
-=======
-
-ArtMaps Project
+**ArtMaps Project**
